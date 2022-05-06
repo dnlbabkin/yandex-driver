@@ -1,0 +1,6 @@
+external:
+  oauth: 'AQAAAABUjLwwAAfbUKsrHD9k5UU3uZhZ_VRWdbk'
+logging.level.org.springframework.web: DEBUG
+spring:
+  mvc:
+    log-request-details: true
